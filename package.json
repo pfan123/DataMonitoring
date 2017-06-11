@@ -1,0 +1,11 @@
+{
+  "name": "DataMonitoring",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pfan123/DataMonitoring.git",
+  "author": "pfan <768065158@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.2.0"
+  }
+}
