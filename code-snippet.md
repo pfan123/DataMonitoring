@@ -147,7 +147,7 @@ http://taobaofed.org/blog/2015/10/28/jstracker-how-to-collect-data/
 
 [如何设计一个前端监控系统](http://www.codedata.cn/hacknews/148436420521212816)
 
-## 使用performance API 监测页面性能
+## 使用performance API 监测页面性能  
 
 [支持性](http://caniuse.com/#feat=nav-timing)
 
@@ -194,5 +194,7 @@ PerformanceTiming  文档解析各个步骤的耗时.  这个是我们在测试�
 [前端异常监控](http://kouyun.me/2017/04/07/%E5%89%8D%E7%AB%AF%E5%BC%82%E5%B8%B8%E7%9B%91%E6%8E%A7/)
 [bugWatch](https://github.com/wuxiaolan91/bugWatch)
 [前端打点](https://gist.github.com/airyland/5633662)
-
-
+[数据指标 | 网站数据分析体系](https://zhuanlan.zhihu.com/p/26861218)
+[前端监控系统落地篇](https://github.com/Rain1368189893/Blog/issues/6)
+[前端性能监控：window.performance](https://juejin.im/entry/58ba9cb5128fe100643da2cc)
+[前端性能——监控起步](http://www.cnblogs.com/chuaWeb/p/PerformanceMonitoring.html)
