@@ -1,6 +1,7 @@
 # 前端数据监控 
 
 下面的方案中包括性能检测和错误检测，部分方法是hack性质的，将来不一定适用，不过至少当前主流浏览器可行，还有是基于新兴性能接口的，浏览器将来会全面支持吧。
+
 ====================================================================
 前端写一个监控脚本，实现以下功能：
 1、onerror捕获JavaScript异常，对应跨域检测也有方案；
@@ -137,7 +138,7 @@ document.styleSheets[n].cssRules，只有当CSS文件加载下来的时候，doc
 
 采集日志方式：
 
-1. <img src="/imgr?">
+1. `<img src="/imgr?">`
 http://taobaofed.org/blog/2015/10/28/jstracker-how-to-collect-data/
 [360 如何用 1px 的图片做数据统计？](https://www.zhihu.com/question/23105971)
 可通过image src跨域请求后端。
@@ -182,19 +183,35 @@ PerformanceTiming  文档解析各个步骤的耗时.  这个是我们在测试�
 ```
 
 参考资料：
+
 [JavaScript onerror 事件](http://www.w3school.com.cn/js/js_onerror.asp)
+
 [前端代码异常监控](http://rapheal.sinaapp.com/2014/11/06/javascript-error-monitor/)
+
 [支付宝监控sai.js](https://github.com/saijs/sai.js)
+
 [构建web前端异常监控系统–FdSafe](http://www.aliued.cn/2012/10/27/%E6%9E%84%E5%BB%BAweb%E5%89%8D%E7%AB%AF%E5%BC%82%E5%B8%B8%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F-fdsafe.html)
+
 [7 天打造前端性能监控系统](http://fex.baidu.com/blog/2014/05/build-performance-monitor-in-7-days/)
+
 [前端代码异常日志收集与监控](http://www.cnblogs.com/hustskyking/p/fe-monitor.html)
+
 [基于node+express+log4js的前端异常信息监控](http://www.html-js.cn/details/4J0pP2FcG)
+
 [站长统计、百度统计、腾讯统计、Google Analytics 哪一统计的数据相对准确些？](https://www.zhihu.com/question/19955915)
+
 [Google Analytics](https://github.com/googleanalytics/)
+
 [前端异常监控](http://kouyun.me/2017/04/07/%E5%89%8D%E7%AB%AF%E5%BC%82%E5%B8%B8%E7%9B%91%E6%8E%A7/)
+
 [bugWatch](https://github.com/wuxiaolan91/bugWatch)
+
 [前端打点](https://gist.github.com/airyland/5633662)
+
 [数据指标 | 网站数据分析体系](https://zhuanlan.zhihu.com/p/26861218)
+
 [前端监控系统落地篇](https://github.com/Rain1368189893/Blog/issues/6)
+
 [前端性能监控：window.performance](https://juejin.im/entry/58ba9cb5128fe100643da2cc)
+
 [前端性能——监控起步](http://www.cnblogs.com/chuaWeb/p/PerformanceMonitoring.html)
