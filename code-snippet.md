@@ -213,5 +213,9 @@ PerformanceTiming  文档解析各个步骤的耗时.  这个是我们在测试�
 [前端监控系统落地篇](https://github.com/Rain1368189893/Blog/issues/6)
 
 [前端性能监控：window.performance](https://juejin.im/entry/58ba9cb5128fe100643da2cc)
+<<<<<<< HEAD
 
 [前端性能——监控起步](http://www.cnblogs.com/chuaWeb/p/PerformanceMonitoring.html)
+=======
+[前端性能——监控起步](http://www.cnblogs.com/chuaWeb/p/PerformanceMonitoring.html)
+>>>>>>> e54823e198b7581abc25317dac5ce173a60eea3d
